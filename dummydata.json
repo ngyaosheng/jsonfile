@@ -1,0 +1,505 @@
+[
+  {
+    "id": "1",
+    "name": "Solve 3x + 5 = 9",
+    "description": "Algebra-Equation",
+    "type": "Algebra",
+    "answer": {
+      "steps": [
+        "Step 1 : Subtract 5 from both sides",
+        "Step 2 : Simplify",
+        "Step 3 : Divide both side by 3",
+        "Step 4 : Simplify"
+      ],
+      "result": [
+        "3x + 5 - 5 = 9 - 5",
+        "3x = 4",
+        "\\frac{3x}{3} = \\frac{4}{3}",
+        "x = \\frac{4}{3}"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Ellen went to a garage sale to buy chairs. Each chair cost 15 dollars.How much money did Ellen spend for the 12 chairs she bought?",
+    "description": "Multiplication Word Problems",
+    "type": "Problem-Sum",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        " 15 \\times 12 = 180",
+        "She paid 180 dollars"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Three-toed sloths have four legs. How many toes would 25 sloths have?",
+    "description": "Multiplication Word Problems",
+    "type": "Problem-Sum",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Multiplication",
+        "Step 3 : Answer"
+      ],
+      "result": [
+        "One sloth has 3 \\times 4 = 12  toes",
+        "12 \\times 25 = 300",
+        "They have 300 toes."
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "name": "Albert has two snakes. The garden snake is 10 inches long. The boa constrictor is 7 times longer than the garden snake. How long is the boa constrictor?",
+    "description": "Multiplication Word Problems",
+    "type": "Problem-Sum",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplcation",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "10 \\times 7 = 70",
+        "It is 70 inches long"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Albert’s cabbage patch has 12 rows of cabbage. In each row, there are 15 heads of cabbage. How many heads of cabbage does Albert have in all?",
+    "description": "Multiplication Word Problems",
+    "type": "Problem-Sum",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "12\\times 15 = 180",
+        "He has 180 heads of cabbage"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Marie can bike at a speed of 12 miles an hour. How far can she bike in 31 hours?",
+    "description": "Multiplication Word Problems",
+    "type": "Problem-Sum",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "12 \\times 31 = 372",
+        "She can bike 372 miles."
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "He started by making mini sandwiches. If he has 4 friends coming over and he made 3 sandwiches for each one of them, how many sandwiches did he make in total?",
+    "description": "Multiplication Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "4 \\times 3 = 12",
+        "He made 12 sandwiches in total."
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "He also made some juice from fresh oranges. If he used 2 oranges per glass of juice and he made 6 glasses of juice, how many oranges did he use?",
+    "description": "Multiplication Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "2 \\times 6 = 12",
+        "He used 12 oranges"
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "name": "Then he started to prepare the games. If each game takes 5 minutes to prepare and he prepared a total of 5 games, how many minutes did it take for Andrew to prepare all the games?",
+    "description": "Multiplication Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "5 \\times 5 = 25",
+        "It took 25 minutes to prepare all the games."
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "name": "Andrew’s 4 friends decided to bring food as well. If each of them brought 4 slices of pizza, how many slices of pizza do they have in total?",
+    "description": "Multiplication Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "4 \\times 4 = 16",
+        "They have 16 slices of pizza in total."
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "name": "Lastly, Andrew tried to compute his expenses for the game night. If he spent $9.00 for each game they played and they played a total of 5 games, how much money did he spend that night?",
+    "description": "Multiplication Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "9 \\times 5 = 45",
+        "Andrew spent \\$45.00 for that night."
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "name": "She made 47 gingerbread cookies which she will distribute equally in tiny glass jars. If each jar is to contain six cookies each, how many cookies will not be placed in a jar?",
+    "description": "Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Division",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "47\\div6 = 5",
+        "5 cookies will not be placed in a jar"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "name": "She also prepared 59 croissants which she plans to give to her 8 neighbors. If each neighbor received and equal number of croissants, how many will be left with Marian?",
+    "description": "Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Division",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "59 \\div 8 = 7 remainder 3",
+        "There were 3 croissants left with Marian."
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "name": "Marian also baked oatmeal cookies for her classmates. If she can place 12 cookies on a tray at a time, how many trays will she need to prepare 276 oatmeal cookies at a time?",
+    "description": "Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Division",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "276 \\div 12 = 23",
+        "She will need 23 trays."
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "name": "Marian’s friends were coming over that afternoon so she made 480 bite-sized pretzels. If one serving is equal to 12 pretzels, how many servings of bite-sized pretzels was Marian able to prepare?",
+    "description": "Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Division",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "480 \\div 12 = 40",
+        "Marian was able to prepare 40 servings."
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "name": "Lastly, she baked 53 lemon cupcakes for the children living in the city orphanage. If two lemon cupcakes were left at home, how many boxes with 3 lemon cupcakes each were given away?",
+    "description": "Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Division",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "53 \\div 3 = 17 remainder 2",
+        "Seventeen boxes of lemon cupcakes were away."
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "name": "A chocolate chip cookie recipe calls for 2 cups of chocolate chips. You want to make 23 recipes for a bake sale. How many cups of chocolate chips will be needed to make all the cookie recipes?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "23 \\times 2 = 46",
+        "46 cups will be needed."
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "name": "I have a pet golden retriever. Each year he gains 11 pounds. He is 8 years old. How many pounds does he weigh?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "11 \\times 8 = 88",
+        "He weighs 88 pounds."
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "name": "John can run one block in 30 seconds. How far can he run in 5 minutes?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Division",
+        "Step 3 : Answer"
+      ],
+      "result": [
+        "5 minutes\\times 60 seconds = 300",
+        "300 \\div 30 = 10",
+        "He can run 10 blocks."
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "name": "A cheetah can run 12 feet in 1 second. How far can he run in 1 minute?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Multiplication",
+        "Step 3 : Answer"
+      ],
+      "result": [
+        "1 minute\\times 60 seconds = 60 ",
+        "60 \\times 12 = 720",
+        "He can run 720 feet."
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "name": "Mary’s car gets 20 miles per gallon of gas. How far can she drive on 14 gallons of gas?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "20\\times 14 = 280",
+        "She can drive 280 miles."
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "name": "I walked 2 miles in 1 hour for Relay for Life. If I maintained this pace for the 8 hours I walk, how many miles total will I walk?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "2 \\times 8 = 16",
+        "You will walk 16 miles."
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "name": "I walk 1 mile every 15 minutes. I walked 3 miles. How many minutes did it take me to walk 3 miles?",
+    "description": "Mixed Multiplication and Division Word Problems",
+    "type": "Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiplication",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "3 \\times 15 = 45",
+        "It took you 45 minutes"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "name": "a^2−b^2",
+    "description": "Factorisation",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : Factorise",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "a^2 - b^2",
+        "(a+b) (a-b)"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "name": "(a+b)(a−b)",
+    "description": "Factorisation",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : Cross Multiple",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "(a\\timesa)(-a\\times-b)(b\\timesa)(b\\times-b)",
+        "a^2-b^2"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "name": "a*0=0",
+    "description": "Number Rules",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiple",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "a\\times0=0",
+        "0"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "name": "a*1=a",
+    "description": "Number Rules",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiple",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "a\\times1=a",
+        "a"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "name": "-(-a)=a",
+    "description": "Number Rules",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : Multiple",
+        "Step 2 : Answer"
+      ],
+      "result": [
+        "-(-a)=a",
+        "a"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "name": "A cake recipe requires 1 2/3 cup of sugar for the frosting and 2/3 cup of sugar for the cake. How much sugar is that altogether?",
+    "description": "Adding and Subtracting Fractions Word Problems",
+    "type": "Adding and Subtracting Fractions Word Problems",
+    "answer": {
+      "steps": [
+        "Step 1 : Addition",
+        "Step 2 : Additon",
+        "Step 3 : Answer"
+      ],
+      "result": [
+        "1\\frac{2}{3} + \\frac{2}{3} = 1\\frac{1}{3} or \\frac{4}{3}",
+        " We add 1 + 1\\frac{1}{3} to get 2\\frac{1}{3}",
+        "That is 2\\frac{1}{3} cups of sugar."
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "name": "Quadratic formula",
+    "description": "Quadratic formula",
+    "type": "formula",
+    "answer": {
+      "steps": [
+        "Step 1 : The general quadratic equation is",
+        "Step 2 : Subtract c/a from both sides of the equation, yielding",
+        "Step 3 : Completing the square can be applied",
+        "Step 4 : Which produces",
+        "Step 5 : Right hand side to have a common denominator",
+        "Step 6 : Taking the square root of both sides yields the following equation",
+        "Step 7 : Isolating x gives the quadratic formula"
+
+      ],
+      "result": [
+        "x^{2}+\\frac{b}{a}x+\\frac{c}{a}=0",
+        "x^{2}-\\frac{b}{a}x=-\\frac{c}{a}",
+        "x^{2}+\\frac{b}{a}x+(\\frac{b}{2a})^{2}=-\\frac{c}{a}+(\\frac{b}{2a})^{2}",
+        "(x+\\frac{b}{2a})^{2}-\\frac{c}{a}+\\frac{b^{2}}{4a^{2}}",
+        "(x+\\frac{b}{2a})^{2}=\\frac{b^{2}-4ac}{4a^{2}}",
+        "x+\\frac{b}{2a}=\\frac{\\sqrt{b^{2}-4ac}}{2a}",
+        "x=\\frac{-b\\pm\\sqrt{b^{2}-4ac}}{2a}"
+      ]
+    }
+  }
+]
